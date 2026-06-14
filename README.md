@@ -58,6 +58,8 @@ The first demo should show that the system makes code review easier instead of h
 
 ## Repository documents
 
+- [Architecture](docs/architecture.md)
+- [Data Model](docs/data-model.md)
 - [Roadmap](docs/roadmap.md)
 - [Business Context](docs/business-context.md)
 - [Demo Notes](docs/demo-notes.md)
